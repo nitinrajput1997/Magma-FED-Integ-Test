@@ -1,5 +1,10 @@
 # Magma-FED-Integ-Test
 
+## Magma Repo Clone
+```
+git clone https://github.com/magma/magma.git 
+```
+
 ## Deploy AGW:
 ```
 cd magma/lte/gateway
