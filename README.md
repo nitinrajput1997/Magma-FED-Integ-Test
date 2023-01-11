@@ -1,5 +1,8 @@
 # Magma-FED-Integ-Test
 
+**Note:** Install Docker Compose version 2
+
+
 ## Magma Repo Clone
 ```
 git clone https://github.com/magma/magma.git 
